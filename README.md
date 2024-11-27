@@ -26,4 +26,4 @@ Tic Tac Toe is a classic two-player game where players take turns marking a spac
  
 * CSS: For styling the game layout and ensuring a visually appealing design.
   
-*JavaScript: For implementing game logic, handling user interactions, and updating the game state dynamically.
+* JavaScript: For implementing game logic, handling user interactions, and updating the game state dynamically.
